@@ -1,0 +1,89 @@
+[[Xorg_damageproto]]
+arch = "armv7l"
+git-tree-sha1 = "2fd969aba8c25260f560661dc6fd18f8f3a3e78a"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_damageproto.download]]
+    sha256 = "e4cdcc35e2ff89aa7d70bb2e3740d4bea0e22971f64839d3162696b214348f4f"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_damageproto_jll.jl/releases/download/Xorg_damageproto-v1.2.1+0/Xorg_damageproto.v1.2.1.arm-linux-gnueabihf.tar.gz"
+[[Xorg_damageproto]]
+arch = "aarch64"
+git-tree-sha1 = "fbdb1d0fd325755a85871e97e2ae569f49b2d234"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_damageproto.download]]
+    sha256 = "86433fdf0a712ec52c71019c49320dcfac224350bab563b2fd6916f30af94672"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_damageproto_jll.jl/releases/download/Xorg_damageproto-v1.2.1+0/Xorg_damageproto.v1.2.1.aarch64-linux-musl.tar.gz"
+[[Xorg_damageproto]]
+arch = "i686"
+git-tree-sha1 = "1ef1dfc2f9922bae161450087eee1da13136bc09"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_damageproto.download]]
+    sha256 = "63a6b51588376977073f4883df6af2926cda3c23367f254b977f5bccc919b9ac"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_damageproto_jll.jl/releases/download/Xorg_damageproto-v1.2.1+0/Xorg_damageproto.v1.2.1.i686-linux-musl.tar.gz"
+[[Xorg_damageproto]]
+arch = "i686"
+git-tree-sha1 = "0c5fd46aaee30a8337df2e0fe6fb559656622f4f"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_damageproto.download]]
+    sha256 = "8053a42b2b87bb5365da0e98241868f4fc88463f92eb811bb85f481d59a19b29"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_damageproto_jll.jl/releases/download/Xorg_damageproto-v1.2.1+0/Xorg_damageproto.v1.2.1.i686-linux-gnu.tar.gz"
+[[Xorg_damageproto]]
+arch = "x86_64"
+git-tree-sha1 = "23f209543ff05189c1adeccb124c8e07dd7b1923"
+os = "freebsd"
+
+    [[Xorg_damageproto.download]]
+    sha256 = "ba7442f79caee8d36e2ea1b1314a4485e7785e4efd287c593b1e84fa46129c8d"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_damageproto_jll.jl/releases/download/Xorg_damageproto-v1.2.1+0/Xorg_damageproto.v1.2.1.x86_64-unknown-freebsd11.1.tar.gz"
+[[Xorg_damageproto]]
+arch = "powerpc64le"
+git-tree-sha1 = "7ad7ca3d48d9db7e0278af3ab77146e1dbb537cc"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_damageproto.download]]
+    sha256 = "afc33fac1df8079fc0f3234b902ea18725ac82dac8865e3e59527bd6ae3f7c81"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_damageproto_jll.jl/releases/download/Xorg_damageproto-v1.2.1+0/Xorg_damageproto.v1.2.1.powerpc64le-linux-gnu.tar.gz"
+[[Xorg_damageproto]]
+arch = "armv7l"
+git-tree-sha1 = "11ea54f39b0323254591e0162b81aa0c7451e024"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_damageproto.download]]
+    sha256 = "0506551f0861c4b3fe016a0d4236e5566ae4b6a4ad8ef158aaba0d9d8ebc976f"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_damageproto_jll.jl/releases/download/Xorg_damageproto-v1.2.1+0/Xorg_damageproto.v1.2.1.arm-linux-musleabihf.tar.gz"
+[[Xorg_damageproto]]
+arch = "aarch64"
+git-tree-sha1 = "ce5498dcb8218426c98b7246c9777c78a8ffb517"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_damageproto.download]]
+    sha256 = "a933380c924a78d7a00d2a7f0e6be11997fac605256a287a1ffc8763ecf124af"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_damageproto_jll.jl/releases/download/Xorg_damageproto-v1.2.1+0/Xorg_damageproto.v1.2.1.aarch64-linux-gnu.tar.gz"
+[[Xorg_damageproto]]
+arch = "x86_64"
+git-tree-sha1 = "f4548d050abadc9eaca053859a01e6f84fc16ee7"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_damageproto.download]]
+    sha256 = "2fec9eb17f51c1f356d0ba621b2c67f180b5089f406aaa67798709716e54f0c1"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_damageproto_jll.jl/releases/download/Xorg_damageproto-v1.2.1+0/Xorg_damageproto.v1.2.1.x86_64-linux-gnu.tar.gz"
+[[Xorg_damageproto]]
+arch = "x86_64"
+git-tree-sha1 = "d632a39897f9bc09b76f66a22c719e36698bfefb"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_damageproto.download]]
+    sha256 = "41f1c765bd9633c2e279c7325e14b5d109dae5a5d67dd75a49dec185a7a19be1"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_damageproto_jll.jl/releases/download/Xorg_damageproto-v1.2.1+0/Xorg_damageproto.v1.2.1.x86_64-linux-musl.tar.gz"
